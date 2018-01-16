@@ -192,9 +192,9 @@ progress::-moz-progress-value {
     margin-top:20px;
     margin-bottom: 10px;
     background-image:url(../image/touxiang.jpg);
-    background-size: 120%;
+    background-size: 100%;
     background-position:center;
-    border-radius:50%;
+    border-radius:0%;
     border:5px solid #607d8b;
     width:160px;
     height:160px;
